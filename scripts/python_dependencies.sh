@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 cd /home/ubuntu/Code/
-pip install -r /home/ubuntu/Code/requirements.txt
+pip install -r requirements.txt
