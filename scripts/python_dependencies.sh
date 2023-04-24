@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
-
-virtualenv /home/ubuntu/env
-source /home/ubuntu/env/bin/activate
+cd /home/ubuntu/Code/
 pip install -r /home/ubuntu/Code/requirements.txt
