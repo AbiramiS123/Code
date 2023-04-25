@@ -2,4 +2,4 @@
 cd /home/ubuntu/Code/
 source /home/ubuntu/env/bin/activate
 
-python main.py
+python3 main.py
