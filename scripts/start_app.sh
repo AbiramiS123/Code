@@ -2,4 +2,4 @@
 cd /home/ubuntu/Code/
 source /home/ubuntu/env/bin/activate
 
-python3 main.py
+nohup python app.py > /home/ubuntu/flask.log 2>&1 &
